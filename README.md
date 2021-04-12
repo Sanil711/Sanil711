@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanilj777" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="sanilj777" height="30" width="40" /></a>
+<a href="https://twitter.com/sanilj777" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="sanilj777" height="40" width="40" /></a>
 </p>
 <img align="right" width="50%" src="https://i.ibb.co/ykhzC2S/undraw-developer-activity-bv83-removebg-preview.png" alt="undraw-developer-activity-bv83-removebg-preview" border="0">
 <h3 align="left">Languages and Tools:</h3>
