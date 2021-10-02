@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanil Jadhav</h1>
 <h3 align="center">New to GitHub and Web developing</h3>
 
-- 🌱 I’m currently learning **C++, Oracle, MySQL and Java**
+- 🌱 I’m currently learning **Java, Python, CSS and React**
 
 - 📫 How to reach me **sanilj777@gmail.com**
 
