@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanil Jadhav</h1>
 <h3 align="center">New to GitHub and Web developing</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, HTML, CSS and React**
+- 🌱 Currently mastering **PowerBI, Tableau, SQL and Python**
 
 - 📫 How to reach me **sanilj777@gmail.com**
 
