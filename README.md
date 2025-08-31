@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanil Jadhav</h1>
 <h3 align="center">Data Analyst in the making</h3>
 
-- 🌱 Currently mastering **PowerBI, Tableau, SQL and Python**
+- 📊 Currently mastering **PowerBI, Tableau, SQL and Python**
 
 - 📫 How to reach me **sanilj777@gmail.com**
 
