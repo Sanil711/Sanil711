@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanil Jadhav</h1>
-<h3 align="center">New to GitHub and Web developing</h3>
+<h3 align="center">Data Analyst in the making</h3>
 
 - 🌱 Currently mastering **PowerBI, Tableau, SQL and Python**
 
