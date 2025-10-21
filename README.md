@@ -23,7 +23,7 @@
 </div>
 
 ###
-
+---
 <h3 align="left">🧑🏻‍🔬  About Me</h3>
 
 ###
@@ -31,7 +31,7 @@
 <p align="left">- 📊 Data Analyst in the making<br>- 🛋️ In my free time I read books, explore the outdoors and play video games<br>- 🛸  Intrigued by Cartography, Paleontology, Zoology, Bio-Geography and the likes</p>
 
 ###
-
+---
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
