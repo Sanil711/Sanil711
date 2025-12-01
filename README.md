@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 📊 **Migration Data Analyst** at **Vermont Information Processing**<br>- 🛋️ In my free time I read books, explore the outdoors and play video games<br>- 🛸  Intrigued by Cartography, Paleontology, Zoology, Bio-Geography and the likes</p>
+<p align="left">- 📊 ** Migration Data Analyst ** at ** Vermont Information Processing ** <br>- 🛋️ In my free time I read books, explore the outdoors and play video games<br>- 🛸  Intrigued by Cartography, Paleontology, Zoology, Bio-Geography and the likes</p>
 
 ###
 ---
